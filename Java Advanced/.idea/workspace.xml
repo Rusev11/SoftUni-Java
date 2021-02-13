@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14526922-1779-4a10-9a60-24bd2dc609f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/EXERCISE/ReverseNumbersWithStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/BrowserHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/BrowserHistoryUpgrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/DecimalToBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/HotPotato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/MatchingBrackets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/PrinterQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Advanced/LAB/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EXERCISE/ReverseNumbersWithStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/BrowserHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/BrowserHistoryUpgrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/DecimalToBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/HotPotato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/MatchingBrackets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/PrinterQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAB/SimpleCalculator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oLvcTCX9XWCQd8ovQeviSPIaWa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.ReverseNumbersWithStack">
+    <configuration name="BrowserHistoryUpgrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB.BrowserHistoryUpgrade" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB.HotPotato" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB.MatchingBrackets" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB.PrinterQueue" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumbersWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE.ReverseNumbersWithStack" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseNumbersWithStack" />
+        <item itemvalue="Application.BrowserHistoryUpgrade" />
+        <item itemvalue="Application.HotPotato" />
+        <item itemvalue="Application.PrinterQueue" />
+        <item itemvalue="Application.MatchingBrackets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14526922-1779-4a10-9a60-24bd2dc609f2" name="Default Changelist" comment="" />
+      <created>1613078766379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613078766379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LAB/BrowserHistory.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LAB/SimpleCalculator.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LAB/DecimalToBinary.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LAB/PrinterQueue.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LAB/HotPotato.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LAB/BrowserHistoryUpgrade.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
