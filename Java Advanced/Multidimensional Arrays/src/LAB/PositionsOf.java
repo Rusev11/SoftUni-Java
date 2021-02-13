@@ -17,7 +17,7 @@ public class PositionsOf {
         }
 
         String number = scanner.nextLine();
-        
+
         for (int row = 0; row < lines.size(); row++) {
             for (int col = 0; col < lines.get(row).length; col++) {
                 if (lines.get(row)[col].equals(number)) {
